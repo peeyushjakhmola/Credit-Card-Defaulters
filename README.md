@@ -44,5 +44,5 @@ AUC
 
 Plot the ROC curves for all the models in a single plot and identify the best model using the same chart
 
-Justify your choice of classifier
+
 
